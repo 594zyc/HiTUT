@@ -1,0 +1,5 @@
+exp/
+data/json_*
+__pycache__/
+core.*
+*.tar.gz
